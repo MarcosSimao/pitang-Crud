@@ -1,4 +1,4 @@
--- phpMyAdmin SQL Dump
+﻿-- phpMyAdmin SQL Dump
 -- version 5.0.1
 -- https://www.phpmyadmin.net/
 --
@@ -70,7 +70,7 @@ CREATE TABLE `user` (
 INSERT INTO `user` (`id`, `nome`, `email`, `senha`) VALUES
 (30, 'luana', 'la@laura', 'senha'),
 (31, 'laiane', 'la@laiane', 'senha'),
-(34, 'Laiane amazonas', 'laiane@mentirosa.com', '12345'),
+(34, 'marcos andrade', 'marcos@gmail.com', '12345'),
 (35, 'juliane simao', 'leticia@lhotmail.com', '12345');
 
 --
